@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / OneDrive
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Word (file kunci sementara dan draf; yang dikumpulkan adalah PDF)
+~$*.docx
+~$*.doc
+*.tmp
+
+# Log
+*.log
